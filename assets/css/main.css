@@ -1,0 +1,7 @@
+body {
+    min-width: 320px;
+    font-family: 'Roboto', sans-serif;
+}
+.my_own{
+    justify-content: end;
+}
